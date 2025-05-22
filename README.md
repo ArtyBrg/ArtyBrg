@@ -1,5 +1,3 @@
-![Banner](https://i.imgur.com/vmF0t7m.png)
-
 # 👋 Hello, I'm Arthur!
 
 🎓 I'm a 1st-year Computer Science engineering student at CESI (France)  
