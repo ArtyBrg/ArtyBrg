@@ -14,14 +14,16 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=python)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?&logo=gnu-bash)
 ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?&logo=virtualbox)
+![C#](https://img.shields.io/badge/-VirtualBox-183A61?&logo=virtualbox)
+![WebBase](https://img.shields.io/badge/-VirtualBox-183A61?&logo=virtualbox)
 
 ---
 
 ## 📁 Featured Projects
 
-🔹 [🔐 Cybersecurity Lab Simulation](https://github.com/ArthurNomDeProjet)  
-🔹 [🌐 Network Topology with Cisco Packet Tracer](https://github.com/ArthurNomDeProjet2)  
-🔹 [🎮 VR Escape Game Prototype](https://github.com/ArthurNomDeProjet3)
+🔹 [🔐 Script for a Backup Server](https://github.com/ArtyBrg/Script-serveur-backup-Interact)
+🔹 [🌐 Basic Intership Website](https://github.com/ArtyBrg/Projet_WEB_G1)  
+🔹 [🎮 .NET App in C#](https://github.com/ArtyBrg/EasySave)
 
 ---
 
@@ -34,4 +36,4 @@
 ## 📫 Reach Me!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/arthur-bergbauer-95a282269/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](bergbauerarthur5@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bergbauerarthur5@gmail.com)
