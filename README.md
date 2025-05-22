@@ -33,5 +33,5 @@
 
 ## 📫 Reach Me!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/tonprofil](https://www.linkedin.com/in/arthur-bergbauer-95a282269/))
+[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin](https://www.linkedin.com/in/arthur-bergbauer-95a282269/))]
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](bergbauerarthur5@gmail.com)
