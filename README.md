@@ -1,25 +1,34 @@
 # 👋 Hello, I'm Arthur!
 
-🎓 I'm a 1st-year Computer Science engineering student at CESI (France)  
-🌍 Currently looking for an **IT internship abroad** (17–20 weeks, starting Sept. 2025)  
-🔐 Passionate about **networks, cybersecurity** 
-🎮 Gamer | 🧑‍🍳 Foodie | 🧭 Curious explorer of tech and cultures  
+🎓 Final-year IT Engineering student at CESI (France), majoring in **Networks & Cybersecurity**
+🎯 Actively seeking a **25-week End-of-Studies Internship (PFE)** (starting Feb. 2027)
+🔐 Passionate about **Networking, Cybersecurity, and System Administration**
+🎮 Gamer | 🧑‍🍳 Foodie | 🧭 Curious explorer of tech and cultures
 
 ---
 
 ## 🧰 Tech Stack & Tools
 
+**Systems & Networks**
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 ![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?logo=cisco&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white)
+![VMware](https://img.shields.io/badge/-VMware-607078?logo=vmware&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?logo=virtualbox&logoColor=white)
+
+**Programming & Scripting**
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/-CSharp-239120?logo=csharp&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white)
+
+**Web & Databases**
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+
+**Tools & Git**
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 
@@ -27,9 +36,10 @@
 
 ## 📁 Featured Projects
 
-🔹 [🔐 Script for a Backup Server](https://github.com/ArtyBrg/Script-serveur-backup-Interact)
-🔹 [🌐 Basic Intership Website](https://github.com/ArtyBrg/Projet_WEB_G1)  
-🔹 [🎮 .NET App in C#](https://github.com/ArtyBrg/EasySave)
+🔹 [🔌 Multiprise_Hunter](https://github.com/ArtyBrg/Multiprise_Hunter) - IoT Project for smart power strip management at CESI (Python)
+🔹 [💾 EasySave](https://github.com/ArtyBrg/EasySave) - Secure backup application built in C#
+🔹 [🔐 Script-serveur-backup-Interact](https://github.com/ArtyBrg/Script-serveur-backup-Interact) - Shell scripts for automated backup infrastructure
+🔹 [🌐 Projet_WEB_G1](https://github.com/ArtyBrg/Projet_WEB_G1) - Basic Internship Website
 
 ---
 
